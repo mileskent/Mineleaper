@@ -28,6 +28,11 @@ To flag a square:
 
 
 
+
+
+
+
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/64712073/172502681-28a54fb6-160a-4a22-9ce0-b7163c76a045.png)
