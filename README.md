@@ -1,5 +1,5 @@
 # Mineleaper
- A Command Line Minesweeper Clone
+ A Command Line Minesweeper Clone for APCSA Final
 
 To run the game, run RUN.bat
 
